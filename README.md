@@ -26,19 +26,19 @@ I'm currently seeking **Software Developer and Full Stack Developer opportunitie
 
 ## Experience
 
-**Software Engineer Intern - Logix Built Solutions Pvt. Ltd.**<br>
+**Software Development Intern - Logix Built Solutions Limited**<br>
 January 2024 – June 2024
 
-- Contributed to application development and feature implementation.
-- Worked on reusable components, debugging, testing, and application improvements.
-- Collaborated on development tasks and gained practical experience with software development workflows.
+- Collaborated with developers, QA testers and a project lead in an Agile/Scrum team, taking part in sprint planning, daily stand-ups and sprint reviews.
+- Developed full-stack features with JavaScript, React.js and Node.js (Express), building reusable UI components and RESTful API endpoints.
+- Integrated React views with Node.js REST APIs and agreed API contracts with back-end teammates.
+- Shared code through Git feature branches, pull requests and peer code reviews, and verified bug fixes with QA before release.
 
-**Software Engineer Intern - New Tech Infosol**<br>
+**Software Development Intern - New Tech Infosol**<br>
 July 2023 – August 2023
 
-- Assisted with application features and development tasks.
-- Supported debugging, testing, and troubleshooting.
-- Gained experience with collaborative software development practices.
+- Built and tested Android application components in Java (Android Studio), including XML-based UI layouts and navigation.
+- Worked with senior developers and fellow interns on assigned features, following the team's Git workflow, coding standards and code reviews.
 
 ## Education
 
