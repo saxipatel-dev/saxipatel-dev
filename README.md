@@ -2,7 +2,7 @@
 
 **Software Developer · Full Stack Development · M.S. Computer Science at Stevens Institute of Technology**
 
-New York / New Jersey · [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev) · Open to Software Developer and Full Stack Developer roles starting June 2027
+New York / New Jersey · [Portfolio](https://saxipatel.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev) · Open to Software Developer and Full Stack Developer roles starting June 2027
 
 ---
 
@@ -68,4 +68,4 @@ B.E. in Computer Engineering · CGPA 8.94/10 · Nov 2020 – May 2024
 
 ## Get in Touch
 
-I'm happy to talk about software development roles, my projects, or anything in full-stack development. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev).
+I'm happy to talk about software development roles, my projects, or anything in full-stack development. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev), and you can explore my work at [saxipatel.is-a.dev](https://saxipatel.is-a.dev).
