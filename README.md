@@ -60,10 +60,10 @@ A returns and warranty system for an online store, with separate portals for cus
 
 ## Education
 
-**Stevens Institute of Technology**, Hoboken, NJ
+**Stevens Institute of Technology**, Hoboken, NJ<br>
 M.S. in Computer Science · GPA 3.7/4.0 · Sep 2025 – May 2027 (expected)
 
-**Gujarat Technological University**, Gujarat, India
+**Gujarat Technological University**, Gujarat, India<br>
 B.E. in Computer Engineering · CGPA 8.94/10 · Nov 2020 – May 2024
 
 ## Get in Touch
