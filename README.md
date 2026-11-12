@@ -1,53 +1,71 @@
-# Hi, I'm Saxi Patel
+# Saxi Patel
 
-**Software Developer | Full Stack Development | MS Computer Science @ Stevens Institute of Technology**
+**Software Developer · Full Stack Development · M.S. Computer Science at Stevens Institute of Technology**
 
-I'm a Computer Science graduate student at Stevens Institute of Technology, graduating in May 2027. I build full-stack web applications and care about clean, maintainable code that is tested and documented.
+New York / New Jersey · [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev) · Open to Software Developer and Full Stack Developer roles starting June 2027
 
-I'm currently seeking **Software Developer and Full Stack Developer opportunities starting June 2027**.
+---
 
-## Projects
+I'm a graduate student in Computer Science at Stevens Institute of Technology (GPA 3.7, graduating May 2027) with two software development internships behind me. I build full-stack web applications with JavaScript, React, Node.js, Python and PostgreSQL, and I care about the parts that make software dependable: clear access rules, safe handling of concurrent updates, and automated tests that run on every push.
 
-**[FlowOps](https://github.com/saxipatel-dev/flowops)**: an operations workspace where employees submit requests, managers approve them, and approvals create follow-up tasks. Role-based access, approvals that can't be decided twice, a drag-and-drop task board, and timeline views of tasks and requests. 170 unit, API and end-to-end tests, including automated accessibility checks, run in GitHub Actions.<br>
-`React` `Express` `PostgreSQL` `Prisma` `Playwright`
+## Featured Projects
 
-**[ReturnDesk](https://github.com/saxipatel-dev/returndesk)**: product returns and warranty management for a small online store, with customer, employee and admin portals. Return and warranty rules enforced by the API, an audit trail of every status change, file uploads, and an analytics dashboard calculated in PostgreSQL. 132 backend, frontend and end-to-end tests run in GitHub Actions.<br>
-`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+### [FlowOps](https://github.com/saxipatel-dev/flowops): Operations and Approval Workflow Platform
 
-## Technical Skills
+A workspace where employees manage tasks and submit requests, managers review and approve them, and approved requests automatically create follow-up work.
 
-- **Languages:** Python, Java, JavaScript, SQL
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI, REST APIs
-- **Databases:** PostgreSQL, Prisma, SQLAlchemy, Firebase
-- **Testing:** Pytest, Vitest, React Testing Library, Playwright
-- **Tools:** Git, GitHub Actions, Docker, VS Code
-- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Software Development Lifecycle, Agile Development
+- Role-based access for employees, managers and admins, with every permission enforced on the server from a single access service
+- Approvals that can't be decided twice, using conditional updates inside PostgreSQL transactions
+- Keyboard-accessible drag-and-drop task board, timeline views and a request journey map, with optimistic updates that roll back if the server refuses
+- **170 automated tests** (unit, API, end-to-end and WCAG 2.2 AA accessibility checks) running in GitHub Actions
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Tailwind CSS` `Vitest` `Playwright`
+
+### [ReturnDesk](https://github.com/saxipatel-dev/returndesk): Returns and Warranty Management Platform
+
+A returns and warranty system for an online store, with separate portals for customers, support staff and administrators.
+
+- Return and warranty eligibility rules enforced by the API, with every status change written to an audit log in the same transaction
+- Row-level locking so two staff members can't approve the same request at once
+- Admin analytics dashboard with 4 KPIs and 7 charts calculated in PostgreSQL, with filters and CSV export
+- 11-table schema with Alembic migrations, a Docker Compose setup and **132 automated tests** in GitHub Actions
+
+`React` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest` `Playwright`
 
 ## Experience
 
-**Software Development Intern - Logix Built Solutions Limited**<br>
-January 2024 – June 2024
+**Software Development Intern** · Logix Built Solutions Limited · Jan 2024 – Jun 2024
 
-- Collaborated with developers, QA testers and a project lead in an Agile/Scrum team, taking part in sprint planning, daily stand-ups and sprint reviews.
-- Developed full-stack features with JavaScript, React.js and Node.js (Express), building reusable UI components and RESTful API endpoints.
-- Integrated React views with Node.js REST APIs and agreed API contracts with back-end teammates.
-- Shared code through Git feature branches, pull requests and peer code reviews, and verified bug fixes with QA before release.
+- Collaborated with developers, QA testers and a project lead in an Agile/Scrum team, taking part in sprint planning, daily stand-ups and sprint reviews
+- Developed full-stack features with JavaScript, React.js and Node.js (Express), building reusable UI components and RESTful API endpoints
+- Integrated React views with Node.js REST APIs and agreed API contracts with back-end teammates
+- Shared code through Git feature branches, pull requests and peer code reviews, and verified bug fixes with QA before release
 
-**Software Development Intern - New Tech Infosol**<br>
-July 2023 – August 2023
+**Software Development Intern** · New Tech Infosol · Jul 2023 – Aug 2023
 
-- Built and tested Android application components in Java (Android Studio), including XML-based UI layouts and navigation.
-- Worked with senior developers and fellow interns on assigned features, following the team's Git workflow, coding standards and code reviews.
+- Built and tested Android application components in Java (Android Studio), including XML-based UI layouts and navigation
+- Worked with senior developers and fellow interns on assigned features, following the team's Git workflow, coding standards and code reviews
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript (ES6+), Python, Java, SQL, HTML, CSS |
+| Frontend | React, Vite, React Router, Tailwind CSS, Recharts, Responsive and Accessible Design |
+| Backend | Node.js, Express, FastAPI, RESTful APIs, Prisma, SQLAlchemy, Role-Based Access Control |
+| Databases | PostgreSQL, Firebase, Data Modeling, Migrations, Transactions |
+| Testing | Vitest, React Testing Library, Supertest, Pytest, Playwright |
+| Tools | Git, GitHub Actions (CI/CD), Docker, Android Studio, VS Code |
+| Practices | Agile/Scrum, Code Reviews, Object-Oriented Programming, Data Structures and Algorithms |
 
 ## Education
 
-**Stevens Institute of Technology**<br>
-Master of Science in Computer Science | Expected May 2027
+**Stevens Institute of Technology**, Hoboken, NJ
+M.S. in Computer Science · GPA 3.7/4.0 · Sep 2025 – May 2027 (expected)
 
-**Gujarat Technological University**<br>
-Bachelor of Engineering in Computer Engineering | May 2024
+**Gujarat Technological University**, Gujarat, India
+B.E. in Computer Engineering · CGPA 8.94/10 · Nov 2020 – May 2024
 
-## Contact
+## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/saxi-patel-dev)
+I'm happy to talk about software development roles, my projects, or anything in full-stack development. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/saxi-patel-dev).
